@@ -18,7 +18,7 @@
 ### <ins> Tecnologias: </ins>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,postgres,git,linux,arduino,opencv" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,postgres,opencv" alt="Tecnologias" />
 </a>
 
 ---
